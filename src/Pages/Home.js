@@ -203,8 +203,8 @@ function Home() {
       <IconButton
           sx={{
             position: 'absolute',
-            top: 500,
-            left: 1800,
+            top: 400,
+            left: 900,
             color: 'black',
             backgroundColor: 'white',
           }}
