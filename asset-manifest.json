@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Architorii/static/css/main.a1a3666f.css",
-    "main.js": "/Architorii/static/js/main.4f11e4b2.js",
+    "main.css": "/Architorii/static/css/main.d9934d23.css",
+    "main.js": "/Architorii/static/js/main.db2a7825.js",
     "static/media/interior.jpg": "/Architorii/static/media/interior.3a5a7ec494f977660898.jpg",
     "static/media/ext.jpg": "/Architorii/static/media/ext.32bdb987f621611675a8.jpg",
     "static/media/above.jpg": "/Architorii/static/media/above.6688821f87ea367dedb2.jpg",
     "index.html": "/Architorii/index.html",
-    "main.a1a3666f.css.map": "/Architorii/static/css/main.a1a3666f.css.map",
-    "main.4f11e4b2.js.map": "/Architorii/static/js/main.4f11e4b2.js.map"
+    "main.d9934d23.css.map": "/Architorii/static/css/main.d9934d23.css.map",
+    "main.db2a7825.js.map": "/Architorii/static/js/main.db2a7825.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a3666f.css",
-    "static/js/main.4f11e4b2.js"
+    "static/css/main.d9934d23.css",
+    "static/js/main.db2a7825.js"
   ]
 }
